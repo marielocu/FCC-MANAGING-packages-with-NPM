@@ -1,8 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mariela Gutierrez",
+	"license": "ExampleLicense",
+	"version": "1.0.0",
+	"description": "A project that does something awesome",
+	"keywords": [
+	  "freecodecamp",
+	  "beginner",
+	  "challenge"
+	],
 	"dependencies": {
-	  "express": "^4.14.0"
+	  "express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,3 +24,5 @@
 	  "url": "https://idontknow/todo.git"
 	}
   }
+
+
